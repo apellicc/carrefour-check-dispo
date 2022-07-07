@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "alert-node": "^3.0.10",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "request": "^2.88.2",
     "request-promise": "^4.2.5",
     "shelljs": "^0.8.3"
